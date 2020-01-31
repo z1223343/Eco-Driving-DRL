@@ -10,3 +10,17 @@
 class env:
     def __init__(self):
         self.
+        sdfasdfadf
+        ksjahljo9qewnrqer
+            qw,mnzxvc
+            fSDFADSFLLKJADF
+            SDF
+        ASD
+        ASDA
+    SFDAFD
+ASDFCLMC
+ASDFSDF
+ASDLFJKLSDKF;ASDF
+SLDF;ASDF:
+    SD;FJK;ADFS:
+        SDFLSDFKS;ADLF
